@@ -1,0 +1,11 @@
+﻿  magic.cpp
+  E:\Google Driver\Rubik's Cube Code\magicCube-Opt-kociemba\magicCube-Opt-kociemba\stepopt.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Google Driver\Rubik's Cube Code\magicCube-Opt-kociemba\magicCube-Opt-kociemba\magic.cpp(145,16): warning C4309:  “参数”: 截断常量值
+E:\Google Driver\Rubik's Cube Code\magicCube-Opt-kociemba\magicCube-Opt-kociemba\magic.cpp(159,16): warning C4309:  “参数”: 截断常量值
+E:\Google Driver\Rubik's Cube Code\magicCube-Opt-kociemba\magicCube-Opt-kociemba\magic.cpp(172,16): warning C4309:  “参数”: 截断常量值
+E:\Google Driver\Rubik's Cube Code\magicCube-Opt-kociemba\magicCube-Opt-kociemba\magic.cpp(172,16): warning C4309: E:\Google Driver\Rubik's Cube Code\magicCube-Opt-kociemba\magicCube-Opt-kociemba\magic.cpp(582) : warning C4715: “Magic::judge_”: 不是所有的控件路径都返回值
+  kociemba.lib(solve.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+    正在创建库 release\\magicCube.lib 和对象 release\\magicCube.exp
+  正在生成代码
+  已完成代码的生成
+  magicCube.vcxproj -> E:\Google Driver\Rubik's Cube Code\magicCube-Opt-kociemba\magicCube-Opt-kociemba\release\magicCube.exe

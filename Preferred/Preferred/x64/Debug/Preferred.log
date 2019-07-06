@@ -1,0 +1,3 @@
+﻿  Preferred.cpp
+D:\File_My\Rubiks-Hand2\Preferred\Preferred\Preferred\Preferred.cpp(287): warning C4267: “初始化”: 从“size_t”转换到“short”，可能丢失数据
+  Preferred.vcxproj -> D:\File_My\Rubiks-Hand2\Preferred\Preferred\x64\Debug\Preferred.exe
